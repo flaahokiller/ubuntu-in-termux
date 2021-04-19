@@ -3,7 +3,7 @@
 time1="$( date +"%r" )"
 
 install1 () {
-directory=ubuntu-fs
+directory=kali-fs
 UBUNTU_VERSION=20.04.1
 if [ -d "$directory" ];then
 first=1
